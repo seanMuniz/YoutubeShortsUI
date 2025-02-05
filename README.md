@@ -1,4 +1,4 @@
-# Youtuve Shorts UI
+# Youtube Shorts UI
 This is just a simple implementation of the Youtube Shorts UI. This mini project was implemented in React Native
 and showcases the use of flex properties to position elements on the screen. This is also my first mini project 
 using React Native, so I would love to share it online!
